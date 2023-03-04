@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan!</h1>
+
 - 🌱 I’m currently learning **Flutter, React**
 
 - 👨‍💻 All of my projects are available at [bogdanciucur.com](bogdanciucur.com)

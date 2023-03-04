@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻Personal site (coming soon): [bogdanciucur.com](bogdanciucur.com)
+- 👨‍💻Personal site (coming soon): <a href="bogdanciucur.com"> Click Here</a>
 
 - 📫 Email me at: **bogdiciucur20@gmail.com**
 
